@@ -1,15 +1,7 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: yulongwanxue
+  url: https://github.com/yulongwanxue
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
-
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+- sitename: CSDN
+  name: yulongwanxue
+  url: https://blog.csdn.net/czqjijiboy?spm=1000.2115.3001.10640
